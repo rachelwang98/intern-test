@@ -28,6 +28,6 @@
 5. 在[公司repo](https://github.com/17zuoye/intern-test)下提交pull request
 
 ## 备注
-1. 你不需要下载Python 2.7，只需要确保py文件语法正确并可以正确运行。你可以使用在线编译器（例如https://repl.it）来测试你的代码
+1. 你不需要下载Python 2.7，只需要确保py文件语法正确并可以正确运行。你可以使用在线编译器，例如[这个](https://repl.it)，来测试你的代码
 
 2. 我们推荐你使用非图形化界面的[git bash](https://git-scm.com/download/win)，这样可以github在国内部分被墙所带来的问题
