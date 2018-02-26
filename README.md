@@ -3,7 +3,7 @@
 
 ## 目标
 1. 掌握github的基本操作
-2. 了解python的基本语法，并能编写简单的函数
+2. 了解python2.7的基本语法，并能编写简单的函数
 
 ## 教学资料
 [Github教程](http://www.runoob.com/git/git-tutorial.html)
@@ -23,7 +23,9 @@
 
 1. 创建自己的github账户
 2. Fork intern-test这个repo
-3. 新增main.py，里面定义一个函数叫divide，输入是两个整数a, b；输出是a/b的小数形式
-4. 新增以你名字命名的text，例如"小明.txt"
-4. 这两个文件上传到你自己的repo中
+3. 新增"姓+名".py(例如"hanmeimei.py")，里面定义一个函数叫divide，输入是两个整数a, b；输出是a/b的小数形式
+4. 这个文件上传到你自己的repo中
 5. 在[公司repo](https://github.com/17zuoye/intern-test)下提交pull request
+
+## 备注
+你不需要下载Python 2.7，只需要确保py文件语法正确并可以正确运行。你可以使用在线编译器（例如https://repl.it）来测试你的代码
